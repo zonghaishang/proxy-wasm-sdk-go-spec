@@ -1,0 +1,1 @@
+# proxy-wasm-sdk-go-spec
